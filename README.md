@@ -4,6 +4,7 @@ This code was made to be a simple text to hash convert facilitating the data tra
 ##How to use
 Using require:
 
+```javascript
     mangoHash = require("mango-hash");
     
     var data = '{"name": "Raul Mangolin"}';
@@ -11,7 +12,8 @@ Using require:
     
     console.log(result); 
     //this will print "rlWhLJ1yVwbtVyWuqJjtGJShM29fnJ4vsD=="
-    
+```
+
 ##How to convert this data in a backend code?
 It's simple
 
