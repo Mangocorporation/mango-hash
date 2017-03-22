@@ -1,7 +1,8 @@
-#mangoHash
+# mango-hash
 This code was made to be a simple text to hash convert facilitating the data transport via URL
-
-##How to use
+ 
+ 
+## How to use
 Using require:
 
 ```javascript
@@ -14,7 +15,7 @@ Using require:
     //this will print "rlWhLJ1yVwbtVyWuqJjtGJShM29fnJ4vsD=="
 ```
 
-##How to convert this hash?
+## How to convert this hash?
 It's simple. Just pass one more parameter _true_ and de hash will be reverted.
 
 **JavaScript**
