@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/raulmangolin/mango-hash.git"
+        "url": "git+https://github.com/Mangocorporation/mango-hash.git"
     },
     "author": "Raul Mangolin",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/raulmangolin/mango-hash/issues"
+        "url": "https://github.com/Mangocorporation/mango-hash/issues"
     },
-    "homepage": "https://github.com/raulmangolin/mango-hash#readme"
+    "homepage": "https://github.com/Mangocorporation/mango-hash#readme"
 }
