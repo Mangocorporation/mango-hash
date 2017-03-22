@@ -1,6 +1,6 @@
 {
     "name": "mango-hash",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Convert string/json to hash",
     "main": "index.js",
     "scripts": {
